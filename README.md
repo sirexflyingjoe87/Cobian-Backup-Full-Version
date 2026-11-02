@@ -238,4 +238,4 @@ This repository serves as the official landing page for Cobian Backup. The softw
 **Get the most recent version of Cobian Backup today!**
 
 ---
-**Last updated:** 2026-11-02 00:17:04 UTC
+**Last updated:** 2026-11-02 07:15:59 UTC
